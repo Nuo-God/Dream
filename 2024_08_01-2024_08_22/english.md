@@ -9,10 +9,10 @@
 ### Event Description :
 >* The event will start on [**August 1, 2024**](#link) (2024-08-01 00:00:01) 
 and will provide a **10-day preparation period** until [**August 10, 2024**](#link) (2024-08-10 12:00).
-* Each event will have a **5-minute delay** at the beginning to allow **guild members** time to log in.
-* Any **guild members** who have not reached the event venue by the start of the event will be considered to have **abandoned their participation and rewards** (including **special rewards**).
-* The event will **end immediately** after all rankings are determined.
-* Participation Conditions **:**
+>* Each event will have a **5-minute delay** at the beginning to allow **guild members** time to log in.
+>* Any **guild members** who have not reached the event venue by the start of the event will be considered to have **abandoned their participation and rewards** (including **special rewards**).
+>* The event will **end immediately** after all rankings are determined.
+>* Participation Conditions **:**
 >>* Must have been in the guild for **10 days or longer** (joining time ≥ [10d](#link)).
 >>* Must have an **activity level** above 40 (activity level > [40](#link)).
 >>* Must have **participated in the first two** guild battles (number of guild battles > [2](#link)).
